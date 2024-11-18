@@ -83,5 +83,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Note
 This script only for testing purpose, using this script might violates ToS and may get your account permanently banned.
 
-My reff code if you want to use :) : 
-(https://bless.network/dashboard?ref=DPIEO0)
+My reff code if you want to use : : 
+https://bless.network/dashboard?ref=DPIEO0
+
+DONATE TON UQACYi-yJ0-NusLx8i2Wq1CwNbs37n1E3JIDMHZ1o-tUwOKk
