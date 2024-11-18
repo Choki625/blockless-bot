@@ -16,7 +16,7 @@ This script automates network or node operations for Blockless Bless Network Bot
 
 1. Clone the repository to your local machine:
    ```bash
-	git clone https://github.com/recitativonika/blockless-bless-network-bot.git
+	git clone https://github.com/Choki625/blockless-bot.git
    ```
 2. Navigate to the project directory:
 	```bash
@@ -28,7 +28,7 @@ This script automates network or node operations for Blockless Bless Network Bot
 	```
 
 ## Usage
-1. Register to blockless bless network account first, if you dont have you can register [here](https://bless.network/dashboard?ref=84PLBS).
+1. Register to blockless bless network account first, if you dont have you can register [here](https://bless.network/dashboard?ref=DPIEO0).
 2. Set and Modify `config.js`. Below how to setup this file. Put your `B7S_AUTH_TOKEN (usertoken)`, `nodeid` and `hardwareid` in the file. Below how to get it:
 3. To get your `token/usertoken`, follow this step:
 	- Login to your bless account in `https://bless.network/dashboard`, make sure you is in this link (dashboard) before go to next step
@@ -84,4 +84,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 This script only for testing purpose, using this script might violates ToS and may get your account permanently banned.
 
 My reff code if you want to use :) : 
-https://bless.network/dashboard?ref=84PLBS
+(https://bless.network/dashboard?ref=DPIEO0)
